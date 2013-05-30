@@ -1,0 +1,35 @@
+<RecordedActions>
+  <RecordedAction filter="noise" id="FilterAction" name="Noise">
+    <Params version="1">
+      <param name="level"><![CDATA[50]]></param>
+      <param name="opacity"><![CDATA[99]]></param>
+      <param name="seedBlue"><![CDATA[1714636915]]></param>
+      <param name="seedGreen"><![CDATA[1681692777]]></param>
+      <param name="seedRed"><![CDATA[846930886]]></param>
+      <param name="seedThreshold"><![CDATA[1804289383]]></param>
+    </Params>
+  </RecordedAction>
+  <RecordedAction filter="desaturate" id="FilterAction" name="Desaturate">
+    <Params version="0"/>
+  </RecordedAction>
+  <RecordedAction filter="motion blur" id="FilterAction" name="Motion Blur">
+    <Params version="1">
+      <param name="blurAngle"><![CDATA[0]]></param>
+      <param name="blurLength"><![CDATA[100]]></param>
+    </Params>
+  </RecordedAction>
+  <RecordedAction filter="motion blur" id="FilterAction" name="Motion Blur">
+    <Params version="1">
+      <param name="blurAngle"><![CDATA[90]]></param>
+      <param name="blurLength"><![CDATA[100]]></param>
+    </Params>
+  </RecordedAction>
+  <RecordedAction opacity="1" x="920" y="400" strokeStyle="Brush" compositeOp="normal" id="FillPaintAction" name="Fill" paintIncremental="1" projectionPath="/" fillStyle="None">
+    <ForegroundColor>
+      <RGB space="sRGB built-in" g="0,2666514217853546" r="0" b="1"/>
+    </ForegroundColor>
+    <BackgroundColor>
+      <RGB space="sRGB built-in" g="1" r="1" b="1"/>
+    </BackgroundColor>
+  </RecordedAction>
+</RecordedActions>
